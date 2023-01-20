@@ -35,7 +35,7 @@ test_macheight.txt
 ```
 _which is the file that is consumed to run the service._
 
-_Keep in mind that the file consists of 2 lines, the first line is for the list of integers to test and the second line is the value of the target sum._
+_You must keep in mind that the file consists of 2 lines, the first line is for the list of integers to be tested (they must be separated by comma and without spaces) and the second line is the value of the target sum_
 
 
 ## Executing the project ⚙️
